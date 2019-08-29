@@ -1,1 +1,2 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+Este repositório pretende reunir exemplos úteis para quem pesquisa ou desenvolve práticas envolvendo dados e jornalismo. A lista está em constante atualização e aberta para sugestões - compartilhe-a como desejar e envie sugestões \(issues\).
+
